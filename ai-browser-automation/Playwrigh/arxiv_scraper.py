@@ -13,8 +13,8 @@ with sync_playwright() as p:
     page = context.new_page()
 
     # Visit your target URL
-    # page.goto("https://www.google.com/search?q=mdalamin5+github")
-    # page.goto("https://www.linkedin.com/in/mdalamin5/")
+    # page.goto("https://www.google.com/search?q=arslan578+github")
+    # page.goto("https://www.linkedin.com/in/arslan578/")
     # page.goto("https://www.linkedin.com/in/abdullahmatin6920/")
     # page.goto("https://www.linkedin.com/in/rubayet-faisal-75806157/")
     # page.goto("https://www.linkedin.com/in/faiaz-hossain-nirob/")

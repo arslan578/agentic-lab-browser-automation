@@ -192,7 +192,7 @@ def extract_linkedin_profile(html_file_path):
 
 # --- Main execution ---
 if __name__ == "__main__":
-    # html_file = "Md_Al_Amin___LinkedIn.html"
+    # html_file = "Arslan_Resume___LinkedIn.html"
     # html_file = "Abdullah_Matin___LinkedIn.html"
     # html_file = "Rubayet_Faisal___LinkedIn.html"
     html_file = "Faiaz_Hossain_Nirob___LinkedIn.html"
