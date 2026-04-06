@@ -4,7 +4,7 @@ import os
 
 # List of URLs to process
 urls = [
-    "https://www.google.com/search?q=mdalamin5+github",
+    "https://www.google.com/search?q=arslan578+github",
     "https://www.wikipedia.org",
     "https://facebook.com",
     # ... add your 800+ links here
